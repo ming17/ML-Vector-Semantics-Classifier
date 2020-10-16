@@ -1,0 +1,2 @@
+# ML-Vector-Semantics-Classifier
+Applying baseline machine learning methods for a text classification task using bag-of-words and vector semantics. Develops classifiers for constructiveness of user comments to news articles, using the annotated constructiveness and toxicity corpus from the SFU opinions and comments corpus . In particular, given a comment from Column F, predict the constructiveness of it from Column G.
