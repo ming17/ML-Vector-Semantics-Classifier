@@ -1,4 +1,7 @@
-public class MajorityClassifer
+public class MajorityClassifier
 {
-    
+    public MajorityClassifier()
+    {
+        return;
+    }
 }
