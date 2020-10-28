@@ -1,4 +1,5 @@
 import java.lang.Math;
+import edu.stanford.nlp.classify.*;
 
 public class LogisticClassifier {
     private int test;
