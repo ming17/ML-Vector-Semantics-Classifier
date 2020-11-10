@@ -1,0 +1,222 @@
+Baseline (CV=3, Window=5): 
+Iter 0 seed is 5807
+Iter 1 seed is 10402
+Iter 2 seed is 37537
+Total majority accuracy: 53.160919540229884
+Total bag-of-words accuracy: 85.0574712643678
+Total tfidf bag-of-words accuracy: 81.22605363984674
+Total sparse vector accuracy: 59.38697318007663
+Total tfidf sparse vector accuracy: 53.160919540229884
+Total dense vector accuracy: 59.195402298850574
+Total tfidf dense vector accuracy: 80.26819923371647
+
+Iter 0 seed is 91587
+Vocab size is 6286
+Iter 1 seed is 11275
+Vocab size is 6322
+Iter 2 seed is 8034
+Vocab size is 6150
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 85.82375478927203
+Total tfidf bag-of-words accuracy: 81.51340996168584
+Total sparse vector accuracy: 58.333333333333336
+Total tfidf sparse vector accuracy: 54.50191570881227
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Iter 0 seed is 70091
+Vocab size is 6237
+Iter 1 seed is 21843
+Vocab size is 6318
+Iter 2 seed is 90616
+Vocab size is 6216
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 84.96168582375479
+Total tfidf bag-of-words accuracy: 80.26819923371647
+Total sparse vector accuracy: 51.24521072796935
+Total tfidf sparse vector accuracy: 52.77777777777778
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Iter 0 seed is 70106
+Vocab size is 6315
+Iter 1 seed is 60460
+Vocab size is 6144
+Iter 2 seed is 36454
+Vocab size is 6266
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 84.48275862068965
+Total tfidf bag-of-words accuracy: 80.17241379310344
+Total sparse vector accuracy: 44.444444444444436
+Total tfidf sparse vector accuracy: 53.160919540229884
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+CV=2, Window=5:
+Iter 0 seed is 66570
+Vocab size is 5391
+Iter 1 seed is 20227
+Vocab size is 5229
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 84.86590038314176
+Total tfidf bag-of-words accuracy: 77.77777777777777
+Total sparse vector accuracy: 45.689655172413794
+Total tfidf sparse vector accuracy: 52.01149425287356
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+CV=5, Window=5:
+Iter 0 seed is 91403
+Iter 1 seed is 25738
+Iter 2 seed is 67403
+Iter 3 seed is 40056
+Iter 4 seed is 39484
+Total majority accuracy: 53.49282296650718
+Total bag-of-words accuracy: 85.45454545454545
+Total tfidf bag-of-words accuracy: 80.66985645933015
+Total sparse vector accuracy: 49.569377990430624
+Total tfidf sparse vector accuracy: 53.49282296650718
+Total dense vector accuracy: 61.43540669856459
+Total tfidf dense vector accuracy: 81.14832535885168
+
+Iter 0 seed is 84363
+Vocab size is 7031
+Iter 1 seed is 87231
+Vocab size is 6971
+Iter 2 seed is 58505
+Vocab size is 6802
+Iter 3 seed is 36903
+Vocab size is 6823
+Iter 4 seed is 13592
+Vocab size is 6833
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 85.93301435406697
+Total tfidf bag-of-words accuracy: 82.20095693779905
+Total sparse vector accuracy: 42.96650717703349
+Total tfidf sparse vector accuracy: 55.50239234449761
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+CV=3, Window=10:
+Iter 0 seed is 55316
+Iter 1 seed is 87582
+Iter 2 seed is 53652
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 86.20689655172414
+Total tfidf bag-of-words accuracy: 81.13026819923371
+Total sparse vector accuracy: 54.11877394636016
+Total tfidf sparse vector accuracy: 52.77777777777777
+
+CV=3, Window=2:
+Iter 0 seed is 25589
+Iter 1 seed is 25646
+Iter 2 seed is 81457
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 83.71647509578544
+Total tfidf bag-of-words accuracy: 78.83141762452108
+Total sparse vector accuracy: 47.605363984674334
+Total tfidf sparse vector accuracy: 52.394636015325666
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+CV=3, Window=100:
+Iter 0 seed is 11697
+Vocab size is 6295
+Iter 1 seed is 86776
+Vocab size is 6309
+Iter 2 seed is 69442
+Vocab size is 6342
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 86.78160919540228
+Total tfidf bag-of-words accuracy: 81.80076628352491
+Total sparse vector accuracy: 53.06513409961686
+Total tfidf sparse vector accuracy: 52.20306513409961
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Stop words only:
+Iter 0 seed is 1559
+Vocab size is 6220
+Iter 1 seed is 1520
+Vocab size is 6012
+Iter 2 seed is 15222
+Vocab size is 6225
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 81.99233716475095
+Total tfidf bag-of-words accuracy: 71.64750957854406
+Total sparse vector accuracy: 58.62068965517242
+Total tfidf sparse vector accuracy: 54.11877394636016
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Iter 0 seed is 27908
+Vocab size is 6008
+Iter 1 seed is 87976
+Vocab size is 6099
+Iter 2 seed is 49294
+Vocab size is 6145
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 81.89655172413792
+Total tfidf bag-of-words accuracy: 73.65900383141762
+Total sparse vector accuracy: 56.03448275862069
+Total tfidf sparse vector accuracy: 53.160919540229884
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Stemmed words only:
+Iter 0 seed is 35628
+Vocab size is 4391
+Iter 1 seed is 55542
+Vocab size is 4517
+Iter 2 seed is 91233
+Vocab size is 4499
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 85.15325670498083
+Total tfidf bag-of-words accuracy: 82.18390804597702
+Total sparse vector accuracy: 50.67049808429118
+Total tfidf sparse vector accuracy: 53.54406130268199
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Iter 0 seed is 24359
+Vocab size is 4498
+Iter 1 seed is 59709
+Vocab size is 4530
+Iter 2 seed is 92289
+Vocab size is 4461
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 85.3448275862069
+Total tfidf bag-of-words accuracy: 82.66283524904215
+Total sparse vector accuracy: 44.82758620689655
+Total tfidf sparse vector accuracy: 53.544061302681996
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Both:
+Iter 0 seed is 17686
+Vocab size is 4336
+Iter 1 seed is 18607
+Vocab size is 4330
+Iter 2 seed is 45046
+Vocab size is 4380
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 82.75862068965517
+Total tfidf bag-of-words accuracy: 75.76628352490421
+Total sparse vector accuracy: 58.90804597701149
+Total tfidf sparse vector accuracy: 54.501915708812255
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
+
+Iter 0 seed is 10493
+Vocab size is 4422
+Iter 1 seed is 72108
+Vocab size is 4538
+Iter 2 seed is 3732
+Vocab size is 4470
+Total majority accuracy: 0.0
+Total bag-of-words accuracy: 82.56704980842913
+Total tfidf bag-of-words accuracy: 75.28735632183907
+Total sparse vector accuracy: 56.22605363984675
+Total tfidf sparse vector accuracy: 52.203065134099624
+Total dense vector accuracy: 0.0
+Total tfidf dense vector accuracy: 0.0
